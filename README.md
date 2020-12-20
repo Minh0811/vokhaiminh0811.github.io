@@ -6,10 +6,8 @@
    - I have an older brother; his name is Hưng.
    - I had two pets, a dog and a cat but unfortunately my cat ran away six months ago :(( their names are Luto and Milo(miss ya). 
    - I used to play basketball when I was young
-## This is assignment from Introduction to IT tutorial 6
-
-### What is github ?   
-<img src="https://www.howtogeek.com/wp-content/uploads/2017/09/1-github-explained.png">
+## here are some photos of mine.
+<img src="https://www.instagram.com/p/CIe8M7kHZRc/">
    - Formly, github is a Distributed Version Control System (DVCS), which is considered sicial network for programmer, where they can simply upload files for group project. In    open source resonance, Github has become a potent element. Github is used, alongside Linkedin, as an alternative to your CV. Employers most frequently refer to the profile of Github to recognize the coding skills of the applicant.   
    
    
