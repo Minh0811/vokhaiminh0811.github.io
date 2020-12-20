@@ -2,7 +2,9 @@
 *Assignment 2: The IT World
 (COSC2083)*
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/42369854_528466587615971_6200007019462656000_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=J5H9erwWI8sAX9q_y7g&_nc_ht=scontent.fdad2-1.fna&oh=3589eb25ea2374f82b85e4fa0e30b4bf&oe=60069747">
-**1. Team Profile**
+<div class="text-red mb-2">
+  1. Team Profile
+</div>
 •	Team Name
 “The Spartans” is my team’s name, the name came from a movie with the same name. I choose this because they have a powerful spartan army, and I want our group to be as healthy, strong and connected as the warriors.
 Finally, this is our team:
