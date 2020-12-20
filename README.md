@@ -7,7 +7,7 @@
    - I had two pets, a dog and a cat but unfortunately my cat ran away six months ago :(( their names are Luto and Milo(miss ya). 
    - I used to play basketball when I was young
 ## here are some photos of mine.
-<img src="https://www.instagram.com/p/CIe8M7kHZRc/">
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/42369854_528466587615971_6200007019462656000_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=J5H9erwWI8sAX9q_y7g&_nc_ht=scontent.fdad2-1.fna&oh=3589eb25ea2374f82b85e4fa0e30b4bf&oe=60069747">
    - Formly, github is a Distributed Version Control System (DVCS), which is considered sicial network for programmer, where they can simply upload files for group project. In    open source resonance, Github has become a potent element. Github is used, alongside Linkedin, as an alternative to your CV. Employers most frequently refer to the profile of Github to recognize the coding skills of the applicant.   
    
    
