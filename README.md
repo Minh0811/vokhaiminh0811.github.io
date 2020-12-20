@@ -1,6 +1,7 @@
-*Introduction to Information Technology*
-*Assignment 2: The IT World
-(COSC2083)*
+#Introduction to Information Technology
+#Assignment 2: The IT World
+(COSC2083)
+*Võ Khải Minh (s3879953)*
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/42369854_528466587615971_6200007019462656000_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=J5H9erwWI8sAX9q_y7g&_nc_ht=scontent.fdad2-1.fna&oh=3589eb25ea2374f82b85e4fa0e30b4bf&oe=60069747">
 <div class="text-red mb-2">
   1. Team Profile
@@ -35,7 +36,6 @@ This is the link to buy a fingerprint module: https://nshopvn.com/product/cam-bi
 To make a fully functional system, you must know basic programming in MySQL and Python. I think these two languages are perfect for the project. Communication and teamwork are essential since you will not do this project alone. Besides, researching skill is necessary; you have to know to dig useful information such as a video showing how the project should run and fix common problems. Problems solving may become an essential element since this project's main idea is to reduce ATM cards' trouble.
    -	Outcome
 If the project is successful, lots and lots of people will not have to deal with losing money. The damage from ATM fraud will be reduced significantly. You won’t worry about losing your PIN because they generate randomly every time you use an ATM. Not only that, but the user also will receive a better customer experience. 
-
 
 
 <div class="text-red mb-2">
