@@ -13,10 +13,9 @@ ain't i a flower ;)
 
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div
-   .bg-purple
-#6f42c1, $bg-purple
+</div>
+  
    
 
- 
+ "colors.background": "#6f42c1",
 
