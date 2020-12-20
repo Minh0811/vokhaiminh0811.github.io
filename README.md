@@ -1,3 +1,4 @@
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 *welcome to my page*
 # About me 
    - My full name is Võ Khải Minh.
@@ -16,6 +17,3 @@ ain't i a flower ;)
 </div>
   
    
-
- "colors.background": "#6f42c1",
-
