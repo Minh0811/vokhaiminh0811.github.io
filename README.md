@@ -1,5 +1,11 @@
-# Tutorial to github
-
+# About me 
+   - My full name is Võ Khải Minh.
+   - I was born in 08-11-2002, which make me 19 :D
+   - I was raised in Quang Ngai city with a beautiful and loving family
+   - I am 178cm tall [not 180cm :( ]
+   - I have an older brother; his name is Hưng.
+   - I had two pets, a dog and a cat but unfortunately my cat ran away six months ago :(( their names are Luto and Milo(miss ya). 
+   - I used to play basketball when I was young
 ## This is assignment from Introduction to IT tutorial 6
 
 ### What is github ?   
@@ -30,64 +36,3 @@
    
    OK?
 
-
-particlesJS("particles-js", {
-    "particles": {
-        "number": {
-            "value": 60
-        },
-        "color": {
-            "value": "#ffffff"
-        },
-        "shape": {
-            "type": "circle",
-            "stroke": {
-                "width": 0,
-                "color": "#f2f3f6"
-            }
-        },
-        "polygon": {
-            "nb_sides": 3
-        },
-        "opacity": {
-            "value": 0.8,
-            "random": false,
-            "anim": {
-                "enable": false,
-                "speed": 1,
-                "opacity_min": 0.1,
-                "sync": false
-            }
-        },
-        "size": {
-            "value": 3,
-            "anim": {
-                "enable": false,
-                "speed": 40,
-                "size_min": 0.1,
-                "sync": false
-            }
-        },
-        "line_linked": {
-            "enable": true,
-            "distance": 150,
-            "color": "#ffffff",
-            "opacity": 0.4,
-            "width": 1
-        },
-        "move": {
-            "enable": true,
-            "speed": 6,
-            "direction": "none",
-            "random": false,
-            "straight": false,
-            "out_mode": "out",
-            "bounce": false,
-            "attract": {
-                "enable": false,
-                "rotateX": 600,
-                "rotateY": 1200
-            }
-        }
-    }
-})
