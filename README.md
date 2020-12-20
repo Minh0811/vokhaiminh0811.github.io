@@ -1,5 +1,3 @@
-.bg-purple
-#6f42c1, $bg-purple
 *welcome to my page*
 # About me 
    - My full name is Võ Khải Minh.
@@ -15,8 +13,9 @@ ain't i a flower ;)
 
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-     
+</div
+   .bg-purple
+#6f42c1, $bg-purple
    
 
  
