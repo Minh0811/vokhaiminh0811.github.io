@@ -1,3 +1,4 @@
+*welcome to my page*
 # About me 
    - My full name is Võ Khải Minh.
    - I was born in 08-11-2002, which make me 19 :D
