@@ -9,11 +9,11 @@
    -	Team Name
 “The Spartans” is my team’s name, the name came from a movie with the same name. I choose this because they have a powerful spartan army, and I want our group to be as healthy, strong and connected as the warriors.
 Finally, this is our team:
-#Nguyễn Thế Minh
-#Nguyễn Phương Nam
-#Võ Khải Minh	
-#Võ Trần Khánh Linh
-#Bùi Nguyễn Ngọc Tuấn
+      -Nguyễn Thế Minh
+      -Nguyễn Phương Nam
+      -Võ Khải Minh	
+      -Võ Trần Khánh Linh
+      -Bùi Nguyễn Ngọc Tuấn
    -Team Profile
 On the last assignment, my grading was only on the CR section, which isn’t a high grade, and this will affect who I want to be my teammate. In my opinion, I want teammates who can lead, work together well and had experience in operating a project so I can learn from them. The most important thing is still the chemistry between each individual. With a good connection, we can overcome the lack of experience and make the project successful. I hope after this, apart from the project, I can make great friends.
 <div class="text-red mb-2">
