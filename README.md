@@ -1,3 +1,5 @@
+.bg-purple
+#6f42c1, $bg-purple
 *welcome to my page*
 # About me 
    - My full name is Võ Khải Minh.
